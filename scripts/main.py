@@ -1,5 +1,3 @@
-# Example main script (main.py)
-
 from data_preprocessing import load_data, preprocess_data
 from models.model import create_model
 

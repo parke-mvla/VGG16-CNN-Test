@@ -1,5 +1,3 @@
-# Example model architecture script (model.py)
-
 import tensorflow as tf
 from keras.models import Model
 from keras.applications import VGG16
